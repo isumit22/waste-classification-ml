@@ -58,7 +58,7 @@ We developed two Flask-based web applications for waste classification:
 
 Both applications use the same trained PyTorch model (`waste_classifier_final.pth`) and provide real-time waste classification with disposal recommendations.
 
-![3-App](Resources/Images/image_app.png)
+
 
 ### Conclusions
 This project demonstrates the practical application of deep learning to environmental sustainability through automated waste classification. By expanding from a simple binary classification to an 11-category system, we've created a more comprehensive solution that can:
